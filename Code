@@ -1,4 +1,4 @@
-# stock prices (fixed)
+# stock prices 
 prices = {
     "AAPL": 180, "TSLA": 250, "GOOG": 140, "MSFT": 330,
     "AMZN": 135, "META": 310, "NVDA": 480, "NFLX": 420,
